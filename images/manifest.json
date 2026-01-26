@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://shiho1000.github.io/SDL_project/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in shiho1000/SDL_project project"
+        ]
+    },
+    "items": []
+}

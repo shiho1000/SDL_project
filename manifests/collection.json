@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://shiho1000.github.io/SDL_project/manifests/manifest_mantastingtea.json",
     "label" : "A man tasting tea with inset picture of kettles boiling."
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://shiho1000.github.io/SDL_project/manifests/afternoontea.json",
+    "label" : "Afternoon Tea"
   } ]
 }

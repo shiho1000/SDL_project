@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 19,
+    "height" : 34
+  }, {
+    "width" : 38,
+    "height" : 67
+  }, {
+    "width" : 75,
+    "height" : 134
+  }, {
+    "width" : 150,
+    "height" : 268
+  }, {
+    "width" : 299,
+    "height" : 535
+  }, {
+    "width" : 598,
+    "height" : 1070
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 598,
+  "@id" : "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea-180",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1070
+}

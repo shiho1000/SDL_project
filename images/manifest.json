@@ -90,6 +90,87 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0091/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0091"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0091/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0091/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0091/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0091",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0091/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea-151/canvas/",
             "type": "Canvas",
             "label": {
@@ -414,6 +495,168 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0109/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0109"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0109/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0109/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0109/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0109",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0109/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0120/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0120"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0120/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0120/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0120/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0120",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0120/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea-139/canvas/",
             "type": "Canvas",
             "label": {
@@ -651,6 +894,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea-135/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0101/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0101"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0101/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0101/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0101/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0101",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0101/canvas/"
                         }
                     ]
                 }
@@ -1143,6 +1467,168 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0096/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0096"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0096/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0096/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0096/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0096",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0096/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0114/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0114"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0114/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0114/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0114/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0114",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0114/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea-134/canvas/",
             "type": "Canvas",
             "label": {
@@ -1305,6 +1791,168 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0110/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0110"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0110/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0110/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0110/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0110",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0110/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0106/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0106"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0106/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0106/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0106/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0106",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0106/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea-144/canvas/",
             "type": "Canvas",
             "label": {
@@ -1380,6 +2028,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea-144/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0090/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0090"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0090/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0090/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0090/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0090",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0090/canvas/"
                         }
                     ]
                 }
@@ -1548,6 +2277,87 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0098/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0098"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0098/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0098/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0098/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0098",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0098/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0066/canvas/",
             "type": "Canvas",
             "label": {
@@ -1623,6 +2433,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0066/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0094/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0094"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0094/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0094/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0094/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0094",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0094/canvas/"
                         }
                     ]
                 }
@@ -2115,6 +3006,87 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0105/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0105"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0105/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0105/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0105/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0105",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0105/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0086/canvas/",
             "type": "Canvas",
             "label": {
@@ -2520,6 +3492,87 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0118/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0118"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0118/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0118/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0118/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0118",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0118/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea-122/canvas/",
             "type": "Canvas",
             "label": {
@@ -2595,6 +3648,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea-122/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0107/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0107"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0107/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0107/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0107/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0107",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0107/canvas/"
                         }
                     ]
                 }
@@ -2838,6 +3972,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0065/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0116/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0116"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0116/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0116/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0116/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0116",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0116/canvas/"
                         }
                     ]
                 }
@@ -3162,6 +4377,168 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea-175/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0115/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0115"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0115/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0115/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0115/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0115",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0115/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0117/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0117"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0117/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0117/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0117/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0117",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0117/canvas/"
                         }
                     ]
                 }
@@ -3573,6 +4950,87 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0112/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0112"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0112/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0112/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0112/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0112",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0112/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea-176/canvas/",
             "type": "Canvas",
             "label": {
@@ -3816,6 +5274,87 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0097/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0097"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0097/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0097/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0097/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0097",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0097/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea-131/canvas/",
             "type": "Canvas",
             "label": {
@@ -4053,6 +5592,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0069/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0108/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0108"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0108/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0108/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0108/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0108",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0108/canvas/"
                         }
                     ]
                 }
@@ -4626,6 +6246,249 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0099/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0099"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0099/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0099/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0099/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0099",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0099/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0104/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0104"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0104/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0104/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0104/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0104",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0104/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0092/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0092"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0092/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0092/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0092/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0092",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0092/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0088/canvas/",
             "type": "Canvas",
             "label": {
@@ -4701,6 +6564,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0088/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0111/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0111"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0111/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0111/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0111/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0111",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0111/canvas/"
                         }
                     ]
                 }
@@ -4944,6 +6888,168 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0062/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0113/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0113"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0113/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0113/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0113/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0113",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0113/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0093/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0093"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0093/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0093/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0093/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0093",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0093/canvas/"
                         }
                     ]
                 }
@@ -6570,6 +8676,168 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0100/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0100"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0100/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0100/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0100/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0100",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0100/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0102/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0102"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0102/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0102/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0102/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0102",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0102/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea-167/canvas/",
             "type": "Canvas",
             "label": {
@@ -6651,6 +8919,87 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0119/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0119"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0119/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0119/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0119/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0119",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0119/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0076/canvas/",
             "type": "Canvas",
             "label": {
@@ -6726,6 +9075,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0076/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0095/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0095"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0095/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0095/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0095/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0095",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0095/canvas/"
                         }
                     ]
                 }
@@ -7131,6 +9561,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea-138/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0103/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "The_Book_of_Tea_page-0103"
+                ]
+            },
+            "height": 2142,
+            "width": 1246,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0103/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0103/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0103/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 156,
+                                                "height": 268
+                                            },
+                                            {
+                                                "width": 312,
+                                                "height": 536
+                                            },
+                                            {
+                                                "width": 623,
+                                                "height": 1071
+                                            },
+                                            {
+                                                "width": 1246,
+                                                "height": 2142
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1246,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0103",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2142,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0103/canvas/"
                         }
                     ]
                 }

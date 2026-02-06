@@ -17,5 +17,11 @@
     "@type" : "sc:Manifest",
     "@id" : "https://shiho1000.github.io/SDL_project/manifests/manifest_afternoontea.json",
     "label" : "Afternoon Tea"
+  }, {
+    "id" : "https://shiho1000.github.io/SDL_project/manifests/sdl_manifest_all_pages_0602.json",
+    "label" : {
+      "none" : [ "The Book of Tea by Okakura, Kakuzo, 1862-1913" ]
+    },
+    "type" : "Manifest"
   } ]
 }

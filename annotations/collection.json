@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://shiho1000.github.io/SDL_project/annotations/sdl_manifest_all_pages_0602.json" ],
+  "@id" : "https://shiho1000.github.io/SDL_project/annotations/collection.json",
+  "label" : "All annotations loaded in shiho1000/SDL_project project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

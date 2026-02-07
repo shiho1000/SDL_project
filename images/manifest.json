@@ -90,6 +90,87 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0106/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0106"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0106/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0106/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0106/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0106",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0106/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0055/canvas/",
             "type": "Canvas",
             "label": {
@@ -576,6 +657,87 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0101/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0101"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0101/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0101/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0101/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0101",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0101/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0091/canvas/",
             "type": "Canvas",
             "label": {
@@ -651,6 +813,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0091/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0119/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0119"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0119/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0119/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0119/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0119",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0119/canvas/"
                         }
                     ]
                 }
@@ -2520,6 +2763,87 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0117/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0117"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0117/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0117/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0117/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0117",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0117/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea-163/canvas/",
             "type": "Canvas",
             "label": {
@@ -2838,6 +3162,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea-150/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0111/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0111"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0111/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0111/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0111/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0111",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0111/canvas/"
                         }
                     ]
                 }
@@ -3249,6 +3654,87 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0121/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0121"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0121/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0121/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0121/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0121",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0121/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0096/canvas/",
             "type": "Canvas",
             "label": {
@@ -3486,6 +3972,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0044/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0118/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0118"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0118/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0118/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0118/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0118",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0118/canvas/"
                         }
                     ]
                 }
@@ -3972,6 +4539,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0110/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0114/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0114"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0114/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0114/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0114/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0114",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0114/canvas/"
                         }
                     ]
                 }
@@ -7218,6 +7866,87 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0115/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0115"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0115/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0115/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0115/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0115",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0115/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0116/canvas/",
             "type": "Canvas",
             "label": {
@@ -9243,6 +9972,87 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0109/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0109"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0109/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0109/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0109/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0109",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0109/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0026/canvas/",
             "type": "Canvas",
             "label": {
@@ -9885,6 +10695,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0045/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0116/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0116"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0116/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0116/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0116/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0116",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0116/canvas/"
                         }
                     ]
                 }
@@ -11106,6 +11997,87 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0103/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0103"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0103/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0103/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0103/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0103",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0103/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0089/canvas/",
             "type": "Canvas",
             "label": {
@@ -11181,6 +12153,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0089/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0104/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0104"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0104/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0104/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0104/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0104",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0104/canvas/"
                         }
                     ]
                 }
@@ -11349,6 +12402,87 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0124/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0124"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0124/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0124/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0124/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0124",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0124/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0027/canvas/",
             "type": "Canvas",
             "label": {
@@ -11424,6 +12558,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0027/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0113/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0113"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0113/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0113/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0113/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0113",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0113/canvas/"
                         }
                     ]
                 }
@@ -11748,6 +12963,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0092/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0110/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0110"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0110/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0110/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0110/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0110",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0110/canvas/"
                         }
                     ]
                 }
@@ -12234,6 +13530,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0087/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0108/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0108"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0108/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0108/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0108/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0108",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0108/canvas/"
                         }
                     ]
                 }
@@ -12801,6 +14178,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0070/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0102/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0102"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0102/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0102/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0102/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0102",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0102/canvas/"
                         }
                     ]
                 }
@@ -13530,6 +14988,168 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0063/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0122/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0122"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0122/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0122/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0122/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0122",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0122/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0100/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0100"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0100/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0100/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0100/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0100",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0100/canvas/"
                         }
                     ]
                 }
@@ -15318,6 +16938,87 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0112/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0112"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0112/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0112/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0112/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0112",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0112/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea-153/canvas/",
             "type": "Canvas",
             "label": {
@@ -15636,6 +17337,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0089/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0123/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0123"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0123/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0123/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0123/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0123",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0123/canvas/"
                         }
                     ]
                 }
@@ -16371,6 +18153,87 @@
             ]
         },
         {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0107/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0107"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0107/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0107/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0107/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0107",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0107/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea-167/canvas/",
             "type": "Canvas",
             "label": {
@@ -16608,6 +18471,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea_page-0119/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0105/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0105"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0105/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0105/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0105/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0105",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0105/canvas/"
                         }
                     ]
                 }
@@ -16932,6 +18876,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://shiho1000.github.io/SDL_project/images/The_Book_of_Tea-147/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0120/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "littleteabook00grayrich_page-0120"
+                ]
+            },
+            "height": 1609,
+            "width": 1100,
+            "items": [
+                {
+                    "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0120/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0120/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0120/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 35,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 69,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 202
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 403
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 805
+                                            },
+                                            {
+                                                "width": 1100,
+                                                "height": 1609
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1100,
+                                        "@id": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0120",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1609,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0120/canvas/"
                         }
                     ]
                 }

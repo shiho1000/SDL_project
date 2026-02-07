@@ -1,0 +1,3691 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://shiho1000.github.io/SDL_project/manifests/the_little_tea_book_manifest.json",
+  "type" : "Manifest",
+  "behavior" : [ "paged" ],
+  "label" : {
+    "en" : [ "The Little Tea Book" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "en" : [ "External ID" ]
+    },
+    "value" : {
+      "en" : [ " urn:oclc:record:1048789310" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Language" ]
+    },
+    "value" : {
+      "en" : [ "English" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Source" ]
+    },
+    "value" : {
+      "en" : [ "https://archive.org/details/littleteabook00grayrich/" ]
+    }
+  } ],
+  "summary" : {
+    "en" : [ "The little book of tea is a collection of short tales and poems about tea, exploring its history, traditions, and tea drinking customs across different cultures." ]
+  },
+  "requiredStatement" : {
+    "label" : {
+      "en" : [ "Attribution" ]
+    },
+    "value" : {
+      "en" : [ "Internet Archive - University of California Libraries" ]
+    }
+  },
+  "items" : [ {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/fyqwjrg6pxv-mlc75gfy",
+    "type" : "Canvas",
+    "height" : 1605,
+    "width" : 1113,
+    "label" : {
+      "en" : [ "The Little Tea Book - 1" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/fyqwjrg6pxv-mlc75gfy/annotation-page/orjbz63rjz9-mlc75gfy",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/nzn8gxpshrf-mlc75gfu",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/fyqwjrg6pxv-mlc75gfy",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0001/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1605,
+          "width" : 1113
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/lgqy5lyimt-mlc75gfu",
+    "type" : "Canvas",
+    "height" : 1605,
+    "width" : 1113,
+    "label" : {
+      "en" : [ "The Little Tea Book - 2" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/lgqy5lyimt-mlc75gfu/annotation-page/160xk5wksimh-mlc75gfu",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/5yg8k7ts9co-mlc75gfr",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/lgqy5lyimt-mlc75gfu",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0002/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1605,
+          "width" : 1113
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/0nu3ctiskr4f-mlc75gfr",
+    "type" : "Canvas",
+    "height" : 1605,
+    "width" : 1113,
+    "label" : {
+      "en" : [ "The Little Tea Book - 3" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/0nu3ctiskr4f-mlc75gfr/annotation-page/jsr21f50xlf-mlc75gfr",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/n9no0afrbvc-mlc75gfo",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/0nu3ctiskr4f-mlc75gfr",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0003/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1605,
+          "width" : 1113
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/e6tvyudeqi-mlc75gfo",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 4" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/e6tvyudeqi-mlc75gfo/annotation-page/77qd2sgm0ka-mlc75gfo",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/uq42nhh1vni-mlc75gfl",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/e6tvyudeqi-mlc75gfo",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0004/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/lb0me04zw2-mlc75gfl",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 5" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/lb0me04zw2-mlc75gfl/annotation-page/u55pck393x-mlc75gfl",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/h85xnwcegrt-mlc75gfh",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/lb0me04zw2-mlc75gfl",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0005/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/0a939xd9k2tg-mlc75gfh",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 6" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/0a939xd9k2tg-mlc75gfh/annotation-page/q4y6rtxkiko-mlc75gfh",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/gqiaadz9n78-mlc75gfd",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/0a939xd9k2tg-mlc75gfh",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0006/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/f2wye6kkc4h-mlc75gfc",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 7" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/f2wye6kkc4h-mlc75gfc/annotation-page/xu2k10qy8pm-mlc75gfc",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/nxrbxr3hvy-mlc75gfa",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/f2wye6kkc4h-mlc75gfc",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0007/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/p939hnhme2m-mlc75gf9",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 8" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/p939hnhme2m-mlc75gf9/annotation-page/8eqmiwz730l-mlc75gf9",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/hk1tm6garz-mlc75gf6",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/p939hnhme2m-mlc75gf9",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0008/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/epbnafkbiae-mlc75gf6",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 9" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/epbnafkbiae-mlc75gf6/annotation-page/ihk9fkpulh8-mlc75gf6",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/740uiha8psf-mlc75gf3",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/epbnafkbiae-mlc75gf6",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0009/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/2ic8uimw3ec-mlc75gf3",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 10" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/2ic8uimw3ec-mlc75gf3/annotation-page/unrd26pnkub-mlc75gf3",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/561icxhphjh-mlc75gey",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/2ic8uimw3ec-mlc75gf3",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0010/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/pdvuqwy39wc-mlc75gey",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 11" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/pdvuqwy39wc-mlc75gey/annotation-page/2kmh7dzql64-mlc75gey",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/3gg1eajn4d3-mlc75gev",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/pdvuqwy39wc-mlc75gey",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0011/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/1gq995cj9xuj-mlc75gev",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 12" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/1gq995cj9xuj-mlc75gev/annotation-page/ue31gjx95l9-mlc75gev",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/633lw2lk8po-mlc75geo",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/1gq995cj9xuj-mlc75gev",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0012/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ezctxlf4o8-mlc75geo",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 13" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ezctxlf4o8-mlc75geo/annotation-page/7fcwa6lo7d-mlc75geo",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/kf79aqowk8e-mlc75gef",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ezctxlf4o8-mlc75geo",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0013/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xmbgh7oz9m-mlc75gef",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 14" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xmbgh7oz9m-mlc75gef/annotation-page/kmm417xu2c-mlc75gef",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/25xv64x57ur-mlc75ge7",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xmbgh7oz9m-mlc75gef",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0014/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/6jgq8q09syv-mlc75ge7",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 15" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/6jgq8q09syv-mlc75ge7/annotation-page/ijwoewywj8f-mlc75ge7",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/1xx2vtbosi4-mlc75gdy",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/6jgq8q09syv-mlc75ge7",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0015/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/kunxjmhssg-mlc75gdy",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 16" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/kunxjmhssg-mlc75gdy/annotation-page/85pflgm12sj-mlc75gdy",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/t239pvwc0e-mlc75gdr",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/kunxjmhssg-mlc75gdy",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0016/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/8zvv3uyep87-mlc75gdr",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 17" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/8zvv3uyep87-mlc75gdr/annotation-page/q1aqaq4n0tf-mlc75gdr",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/wvnnxoon63-mlc75gdh",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/8zvv3uyep87-mlc75gdr",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0017/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/di6ifof8vl4-mlc75gdh",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 18" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/di6ifof8vl4-mlc75gdh/annotation-page/1eqajqgns6k-mlc75gdh",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/d5605f6b6y-mlc75gda",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/di6ifof8vl4-mlc75gdh",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0018/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/a4enqilqhue-mlc75gda",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 19" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/a4enqilqhue-mlc75gda/annotation-page/dcff59ojfhg-mlc75gda",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/iqbv6b9wlpc-mlc75gd0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/a4enqilqhue-mlc75gda",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0019/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/v2yae7y1zr-mlc75gd0",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 20" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/v2yae7y1zr-mlc75gd0/annotation-page/vlcf4etbapl-mlc75gd0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/az5t2m59elf-mlc75gct",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/v2yae7y1zr-mlc75gd0",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0020/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/t1im9w87am-mlc75gct",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 21" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/t1im9w87am-mlc75gct/annotation-page/cjzyybijwca-mlc75gct",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/6w9nfiit584-mlc75gcj",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/t1im9w87am-mlc75gct",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0021/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/d9p7esmlqsi-mlc75gcj",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 22" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/d9p7esmlqsi-mlc75gcj/annotation-page/72kfl00k02s-mlc75gcj",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/ulx9vxf8wir-mlc75gcc",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/d9p7esmlqsi-mlc75gcj",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0022/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/iztx6evt4u8-mlc75gcc",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 23" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/iztx6evt4u8-mlc75gcc/annotation-page/jgwtkzizqa-mlc75gcc",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/6vd5f0p708f-mlc75gc3",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/iztx6evt4u8-mlc75gcc",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0023/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/1e4i6cd04ug-mlc75gc3",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 24" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/1e4i6cd04ug-mlc75gc3/annotation-page/nnxu3dnf6d-mlc75gc3",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/hczeg5352ah-mlc75gbw",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/1e4i6cd04ug-mlc75gc3",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0024/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ydktr6vn6k-mlc75gbw",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 25" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ydktr6vn6k-mlc75gbw/annotation-page/z48mafaqfg-mlc75gbw",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/axq3161lfel-mlc75gbm",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ydktr6vn6k-mlc75gbw",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0025/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9hmdr44trvg-mlc75gbm",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 26" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9hmdr44trvg-mlc75gbm/annotation-page/3tugrr67bc2-mlc75gbm",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/smcgsxgz0k-mlc75gbf",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9hmdr44trvg-mlc75gbm",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0026/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/4haokt2fzxw-mlc75gbf",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 27" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/4haokt2fzxw-mlc75gbf/annotation-page/hmxi69ijpys-mlc75gbf",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/8ugo0egvo77-mlc75gb6",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/4haokt2fzxw-mlc75gbf",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0027/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/fmpsxumumpb-mlc75gb6",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 28" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/fmpsxumumpb-mlc75gb6/annotation-page/5jkjg3ynj69-mlc75gb6",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/og4ew7ddng-mlc75gaz",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/fmpsxumumpb-mlc75gb6",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0028/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/mfbfgrbxl0a-mlc75gaz",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 29" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/mfbfgrbxl0a-mlc75gaz/annotation-page/9ar4ctcnxs8-mlc75gaz",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/xdt4tkk7z1l-mlc75gaq",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/mfbfgrbxl0a-mlc75gaz",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0029/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/29i4my0pjir-mlc75gaq",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 30" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/29i4my0pjir-mlc75gaq/annotation-page/i1lyralh9sg-mlc75gaq",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/je11qjkiq8-mlc75gai",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/29i4my0pjir-mlc75gaq",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0030/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/dcqw327jt15-mlc75gai",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 31" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/dcqw327jt15-mlc75gai/annotation-page/zhsj07mssm-mlc75gai",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/hhrc6k7vcqb-mlc75gaa",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/dcqw327jt15-mlc75gai",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0031/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/zj2s9agt3ko-mlc75gaa",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 32" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/zj2s9agt3ko-mlc75gaa/annotation-page/b56elg8jfo9-mlc75gaa",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/tphn6dvm5b-mlc75ga2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/zj2s9agt3ko-mlc75gaa",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0032/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/1vo9omgg3ew-mlc75ga2",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 33" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/1vo9omgg3ew-mlc75ga2/annotation-page/qwcdytwopa8-mlc75ga2",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/uyr7s6dyu6-mlc75g9s",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/1vo9omgg3ew-mlc75ga2",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0033/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/km80d1fq2m-mlc75g9s",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 34" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/km80d1fq2m-mlc75g9s/annotation-page/zvx35xbgmis-mlc75g9s",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/nzm64mk5oco-mlc75g9l",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/km80d1fq2m-mlc75g9s",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0034/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/2ohqy2jrrzc-mlc75g9l",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 35" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/2ohqy2jrrzc-mlc75g9l/annotation-page/iqupxoirfb-mlc75g9l",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/05t7xj6k1uzx-mlc75g9d",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/2ohqy2jrrzc-mlc75g9l",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0035/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9bhootgeate-mlc75g9d",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 36" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9bhootgeate-mlc75g9d/annotation-page/fgtrfahrccd-mlc75g9d",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/ag7xmmenpwq-mlc75g96",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9bhootgeate-mlc75g9d",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0036/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/j763ifyu48-mlc75g96",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 37" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/j763ifyu48-mlc75g96/annotation-page/ewwfy56ot38-mlc75g96",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/bzgc0qzinud-mlc75g8y",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/j763ifyu48-mlc75g96",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0037/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9rlnu3e0jr-mlc75g8y",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 38" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9rlnu3e0jr-mlc75g8y/annotation-page/umijhm8yer-mlc75g8y",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/yxvomsmv8j-mlc75g8r",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9rlnu3e0jr-mlc75g8y",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0038/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/4i5yiqkq62s-mlc75g8r",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 39" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/4i5yiqkq62s-mlc75g8r/annotation-page/5cwljqzjvdb-mlc75g8r",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/uzfo9qvwnbr-mlc75g8j",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/4i5yiqkq62s-mlc75g8r",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0039/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/tnaty3p3n8-mlc75g8j",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 40" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/tnaty3p3n8-mlc75g8j/annotation-page/3hs1bi4lylr-mlc75g8j",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/f5u0ywldn3f-mlc75g8b",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/tnaty3p3n8-mlc75g8j",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0040/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/eggwys0i6st-mlc75g8b",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 41" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/eggwys0i6st-mlc75g8b/annotation-page/dp3ajbpg4hb-mlc75g8b",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/uxscewq5pwr-mlc75g83",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/eggwys0i6st-mlc75g8b",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0041/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/qsobd7qg72-mlc75g83",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 42" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/qsobd7qg72-mlc75g83/annotation-page/k0zqbagx9s-mlc75g83",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/llzk5bkcgt-mlc75g7u",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/qsobd7qg72-mlc75g83",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0042/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ch15zobxc35-mlc75g7u",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 43" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ch15zobxc35-mlc75g7u/annotation-page/8pf6uq6x7c-mlc75g7u",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/prkpge4ivv-mlc75g7m",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ch15zobxc35-mlc75g7u",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0043/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/f88mgn2o9ec-mlc75g7m",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 44" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/f88mgn2o9ec-mlc75g7m/annotation-page/6fff1p85wxc-mlc75g7m",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/b0w5xnan908-mlc75g7e",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/f88mgn2o9ec-mlc75g7m",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0044/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/zi7cqudmasj-mlc75g7e",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 45" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/zi7cqudmasj-mlc75g7e/annotation-page/c9zzxn44s7-mlc75g7e",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/e45ba4usurp-mlc75g77",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/zi7cqudmasj-mlc75g7e",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0045/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/pb6dbyr7lmm-mlc75g77",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 46" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/pb6dbyr7lmm-mlc75g77/annotation-page/ma1k1kevsfd-mlc75g77",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/7oi69qjj7vv-mlc75g6z",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/pb6dbyr7lmm-mlc75g77",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0046/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/zf413b0vedi-mlc75g6z",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 47" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/zf413b0vedi-mlc75g6z/annotation-page/pch8recihyf-mlc75g6z",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/fbb6xbkrlp7-mlc75g6r",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/zf413b0vedi-mlc75g6z",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0047/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/uejg8870qtb-mlc75g6r",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 48" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/uejg8870qtb-mlc75g6r/annotation-page/k5u05g5tddh-mlc75g6r",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/70ycg4k4f38-mlc75g6a",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/uejg8870qtb-mlc75g6r",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0048/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/7fv7i2aurzk-mlc75g69",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 49" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/7fv7i2aurzk-mlc75g69/annotation-page/x4wr7zscid9-mlc75g69",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/vhcif8wi5gm-mlc75g60",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/7fv7i2aurzk-mlc75g69",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0049/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/uorw412c6mc-mlc75g5z",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 50" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/uorw412c6mc-mlc75g5z/annotation-page/nhapdb72iu-mlc75g5z",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/tryapc66who-mlc75g5p",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/uorw412c6mc-mlc75g5z",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0050/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/1wq7lagd14w-mlc75g5p",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 51" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/1wq7lagd14w-mlc75g5p/annotation-page/vpkjubr6xq-mlc75g5p",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/1kvttskjq5j-mlc75g5f",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/1wq7lagd14w-mlc75g5p",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0051/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xkrvlq3wche-mlc75g5f",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 52" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xkrvlq3wche-mlc75g5f/annotation-page/mfst910yf9-mlc75g5f",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/lwqsgja2iyt-mlc75g55",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xkrvlq3wche-mlc75g5f",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0052/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xgt19dqstib-mlc75g55",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 53" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xgt19dqstib-mlc75g55/annotation-page/6p35z3gf8bh-mlc75g55",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/rpjvosw596n-mlc75g4y",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xgt19dqstib-mlc75g55",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0053/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/wam1bna3n6t-mlc75g4y",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 54" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/wam1bna3n6t-mlc75g4y/annotation-page/3w0av6h3zvc-mlc75g4y",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/pravtbr38e-mlc75g4p",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/wam1bna3n6t-mlc75g4y",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0054/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/cjhf6qlfmzu-mlc75g4p",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 55" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/cjhf6qlfmzu-mlc75g4p/annotation-page/bdwntn2nzb9-mlc75g4p",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/a6n4ioeqknf-mlc75g4i",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/cjhf6qlfmzu-mlc75g4p",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0055/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/thsf51iy17n-mlc75g4i",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 56" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/thsf51iy17n-mlc75g4i/annotation-page/605xqet0f4n-mlc75g4i",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/crfg1wrkdkc-mlc75g48",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/thsf51iy17n-mlc75g4i",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0056/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/bia744zl3qc-mlc75g48",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 57" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/bia744zl3qc-mlc75g48/annotation-page/2nrqa8lv8fc-mlc75g48",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/neryyskuegi-mlc75g41",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/bia744zl3qc-mlc75g48",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0057/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/qvfurnvsxq-mlc75g41",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 58" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/qvfurnvsxq-mlc75g41/annotation-page/4apr64a0dfp-mlc75g41",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/lbrrd6v4uzd-mlc75g3s",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/qvfurnvsxq-mlc75g41",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0058/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9j4j3vbq87n-mlc75g3s",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 59" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9j4j3vbq87n-mlc75g3s/annotation-page/g71vz6nnip-mlc75g3s",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/ep8gnoojvw9-mlc75g3k",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9j4j3vbq87n-mlc75g3s",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0059/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/5nhd12iwsln-mlc75g3k",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 60" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/5nhd12iwsln-mlc75g3k/annotation-page/e1sbuab6kpn-mlc75g3k",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/d3cc5ybxyua-mlc75g3b",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/5nhd12iwsln-mlc75g3k",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0060/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xdri2hssk6s-mlc75g3b",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 61" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xdri2hssk6s-mlc75g3b/annotation-page/8t1sjwkasfw-mlc75g3b",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/csxc1yhypy-mlc75g34",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xdri2hssk6s-mlc75g3b",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0061/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/t7z7d22yf-mlc75g34",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 62" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/t7z7d22yf-mlc75g34/annotation-page/oy1wcbxqoof-mlc75g34",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/brkrpr34dol-mlc75g2v",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/t7z7d22yf-mlc75g34",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0062/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/bnipm1snwjp-mlc75g2v",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 63" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/bnipm1snwjp-mlc75g2v/annotation-page/tw5aeqyu2w-mlc75g2v",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/damegchfemh-mlc75g2n",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/bnipm1snwjp-mlc75g2v",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0063/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/jn8r7zc97de-mlc75g2n",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 64" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/jn8r7zc97de-mlc75g2n/annotation-page/ujx6j7uy7j-mlc75g2n",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/xiklksx3dx-mlc75g2e",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/jn8r7zc97de-mlc75g2n",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0064/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/u0sp9qwch08-mlc75g2e",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 65" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/u0sp9qwch08-mlc75g2e/annotation-page/8y7rv5dmumx-mlc75g2e",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/svcda6wlw2r-mlc75g26",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/u0sp9qwch08-mlc75g2e",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0065/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/1xbm17mu7bc-mlc75g26",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 66" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/1xbm17mu7bc-mlc75g26/annotation-page/53q2a7hn7jo-mlc75g26",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/a8cv2ct7qfi-mlc75g1x",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/1xbm17mu7bc-mlc75g26",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0066/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/bcvrsvxkojv-mlc75g1x",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 67" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/bcvrsvxkojv-mlc75g1x/annotation-page/ppjllbwd3dm-mlc75g1x",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/3w068nqgqmu-mlc75g1q",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/bcvrsvxkojv-mlc75g1x",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0067/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/dfsxuvjm66t-mlc75g1q",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 68" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/dfsxuvjm66t-mlc75g1q/annotation-page/frlixg0avc4-mlc75g1q",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/6diqdg77f8v-mlc75g1h",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/dfsxuvjm66t-mlc75g1q",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0068/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/2atgz69wt08-mlc75g1g",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 69" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/2atgz69wt08-mlc75g1g/annotation-page/mkkr7i2zay-mlc75g1g",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/84r9q146bka-mlc75g19",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/2atgz69wt08-mlc75g1g",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0069/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/keijifox4f-mlc75g19",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 70" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/keijifox4f-mlc75g19/annotation-page/qvugoxgtmvs-mlc75g19",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/51kmskzimzw-mlc75g0z",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/keijifox4f-mlc75g19",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0070/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/4d3abi5odp-mlc75g0z",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 71" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/4d3abi5odp-mlc75g0z/annotation-page/blupjtbjqpt-mlc75g0z",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/qgpk67e67pf-mlc75g0s",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/4d3abi5odp-mlc75g0z",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0071/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/8u9wdzlj24m-mlc75g0s",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 72" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/8u9wdzlj24m-mlc75g0s/annotation-page/5eupmc6xjna-mlc75g0s",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/3oiu5rj5kn6-mlc75g0k",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/8u9wdzlj24m-mlc75g0s",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0072/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/p4ydrl90gs-mlc75g0k",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 73" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/p4ydrl90gs-mlc75g0k/annotation-page/kkcneo2r8co-mlc75g0k",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/xoomvp4qpii-mlc75g0c",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/p4ydrl90gs-mlc75g0k",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0073/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/4qmccdgxzz7-mlc75g0c",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 74" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/4qmccdgxzz7-mlc75g0c/annotation-page/9z1onj0rtct-mlc75g0c",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/qceit71v8me-mlc75g02",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/4qmccdgxzz7-mlc75g0c",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0074/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/m2rv8vmybiq-mlc75g02",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 75" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/m2rv8vmybiq-mlc75g02/annotation-page/uwo2cxti5r-mlc75g02",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/kraciu4gfu8-mlc75fzv",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/m2rv8vmybiq-mlc75g02",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0075/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/tn7e07fans-mlc75fzv",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 76" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/tn7e07fans-mlc75fzv/annotation-page/gbwrg6ob3qg-mlc75fzv",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/zlb26ggduyn-mlc75fzm",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/tn7e07fans-mlc75fzv",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0076/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/neox15diocm-mlc75fzm",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 77" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/neox15diocm-mlc75fzm/annotation-page/zcrawtwzmj-mlc75fzm",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/4f033efv6qa-mlc75fze",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/neox15diocm-mlc75fzm",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0077/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/r2en2gba33-mlc75fze",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 78" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/r2en2gba33-mlc75fze/annotation-page/qrthqf0yr5k-mlc75fze",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/jlwbo8avazl-mlc75fz5",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/r2en2gba33-mlc75fze",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0078/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/btdwqmh9swa-mlc75fz5",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 79" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/btdwqmh9swa-mlc75fz5/annotation-page/1cddzyg8773-mlc75fz5",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/8i0m5ge600b-mlc75fyx",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/btdwqmh9swa-mlc75fz5",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0079/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/t2o0xygj22q-mlc75fyx",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 80" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/t2o0xygj22q-mlc75fyx/annotation-page/8f7d4nmr0jo-mlc75fyx",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/72mqaj8t5dn-mlc75fyo",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/t2o0xygj22q-mlc75fyx",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0080/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ipewmphxtfb-mlc75fyo",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 81" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ipewmphxtfb-mlc75fyo/annotation-page/dyp4uzkvsk8-mlc75fyo",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/vkiyrvpyu7-mlc75fyh",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ipewmphxtfb-mlc75fyo",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0081/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/jkoo515d38f-mlc75fyh",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 82" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/jkoo515d38f-mlc75fyh/annotation-page/ybsl9ps993-mlc75fyh",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/7mb1mi3yv5q-mlc75fy8",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/jkoo515d38f-mlc75fyh",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0082/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/dsc4v54kku-mlc75fy8",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 83" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/dsc4v54kku-mlc75fy8/annotation-page/g0z1jgeej5g-mlc75fy8",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/mk92tfvgosa-mlc75fy1",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/dsc4v54kku-mlc75fy8",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0083/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/81ok69uze1e-mlc75fy1",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 84" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/81ok69uze1e-mlc75fy1/annotation-page/gzu6esi72m-mlc75fy1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/cko1yh98ug9-mlc75fxt",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/81ok69uze1e-mlc75fy1",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0084/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xu5cim5w99g-mlc75fxt",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 85" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xu5cim5w99g-mlc75fxt/annotation-page/xs5zi77ebol-mlc75fxt",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/05vy98nd2oaw-mlc75fxl",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xu5cim5w99g-mlc75fxt",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0085/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/933mjmsayrl-mlc75fxl",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 86" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/933mjmsayrl-mlc75fxl/annotation-page/iaw23ko73sh-mlc75fxl",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/cj82wdsroe-mlc75fxa",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/933mjmsayrl-mlc75fxl",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0086/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ncavydsvgm7-mlc75fxa",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 87" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ncavydsvgm7-mlc75fxa/annotation-page/a4bnka3uap-mlc75fxa",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/zbe16rzu7i-mlc75fwr",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ncavydsvgm7-mlc75fxa",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0087/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/wdttos6dkw-mlc75fwr",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 88" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/wdttos6dkw-mlc75fwr/annotation-page/5ylbn4ok0rg-mlc75fwr",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/mojt1vxpkiq-mlc75fwh",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/wdttos6dkw-mlc75fwr",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0088/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/fntzub5jh-mlc75fwh",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 89" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/fntzub5jh-mlc75fwh/annotation-page/oaspqyvzexq-mlc75fwh",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/gx8hvvmtqlc-mlc75fw7",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/fntzub5jh-mlc75fwh",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0089/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/5025abccda5-mlc75fw7",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 90" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/5025abccda5-mlc75fw7/annotation-page/d6m60beja4k-mlc75fw7",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/0uuqexz07zp-mlc75fvw",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/5025abccda5-mlc75fw7",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0090/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/t0twfhojdg-mlc75fvw",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 91" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/t0twfhojdg-mlc75fvw/annotation-page/bfzjwdcgtz-mlc75fvw",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/xp3im3g5ili-mlc75fvl",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/t0twfhojdg-mlc75fvw",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0091/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/bb0qm62gukd-mlc75fvl",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 92" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/bb0qm62gukd-mlc75fvl/annotation-page/9puexa3hqxl-mlc75fvl",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/szapyh1blzg-mlc75fvc",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/bb0qm62gukd-mlc75fvl",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0092/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/etlm9hpcshs-mlc75fvc",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 93" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/etlm9hpcshs-mlc75fvc/annotation-page/sy9pxc1a04r-mlc75fvc",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/l5r07emo53o-mlc75fv4",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/etlm9hpcshs-mlc75fvc",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0093/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/k1z8nrg2o1q-mlc75fv4",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 94" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/k1z8nrg2o1q-mlc75fv4/annotation-page/khdwbd7jemp-mlc75fv4",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/7n5dksjtsg-mlc75fuw",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/k1z8nrg2o1q-mlc75fv4",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0094/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/q7n24vc290g-mlc75fuw",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 95" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/q7n24vc290g-mlc75fuw/annotation-page/0qs2cv71kzm-mlc75fuw",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/5b5r7o4utqp-mlc75fuo",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/q7n24vc290g-mlc75fuw",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0095/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9t85ff50cf-mlc75fuo",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 96" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9t85ff50cf-mlc75fuo/annotation-page/hm2wl873zs-mlc75fuo",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/mv50nr9hx29-mlc75fuf",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9t85ff50cf-mlc75fuo",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0096/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/05fgk5v2yn8r-mlc75fuf",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 97" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/05fgk5v2yn8r-mlc75fuf/annotation-page/3ffj5f7b9gt-mlc75fuf",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/9j4ae0fg7pe-mlc75fu7",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/05fgk5v2yn8r-mlc75fuf",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0097/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/wgohsb8trph-mlc75fu7",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 98" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/wgohsb8trph-mlc75fu7/annotation-page/n6af5dayqa-mlc75fu7",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/0ztwxmfwdf7-mlc75ftz",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/wgohsb8trph-mlc75fu7",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0098/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/7671fqsmtil-mlc75ftz",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 99" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/7671fqsmtil-mlc75ftz/annotation-page/lau7gxz9ty-mlc75ftz",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/ar94h67cvkn-mlc75ftr",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/7671fqsmtil-mlc75ftz",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0099/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/55jsbtb3l9s-mlc75ftq",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 100" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/55jsbtb3l9s-mlc75ftq/annotation-page/60lwqbgdd8x-mlc75ftq",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/il0sm3xynjm-mlc75fti",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/55jsbtb3l9s-mlc75ftq",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0100/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/quxo3rn42y-mlc75fti",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 101" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/quxo3rn42y-mlc75fti/annotation-page/thfd31iscp-mlc75fti",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/lwfpcmpkv7o-mlc75fta",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/quxo3rn42y-mlc75fti",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0101/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/6cxoqms4dos-mlc75fta",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 102" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/6cxoqms4dos-mlc75fta/annotation-page/dvfszypx7tt-mlc75fta",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/nq0zctrw9b-mlc75ft2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/6cxoqms4dos-mlc75fta",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0102/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/bm2lrgoqxyt-mlc75ft2",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 103" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/bm2lrgoqxyt-mlc75ft2/annotation-page/zeq60r244r8-mlc75ft2",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/x5qfq3jtfz-mlc75fst",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/bm2lrgoqxyt-mlc75ft2",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0103/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/p0giv7ebhm-mlc75fst",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 104" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/p0giv7ebhm-mlc75fst/annotation-page/ct97htkn84p-mlc75fst",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/hn38qm2e1cd-mlc75fsl",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/p0giv7ebhm-mlc75fst",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0104/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/y72okzcpb19-mlc75fsl",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 105" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/y72okzcpb19-mlc75fsl/annotation-page/hvxol6o3hz8-mlc75fsl",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/v8w1ceiomi8-mlc75fsd",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/y72okzcpb19-mlc75fsl",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0105/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/x48k3x5uge-mlc75fsc",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 106" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/x48k3x5uge-mlc75fsc/annotation-page/gub04h2ai-mlc75fsc",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/tocqmaikdb-mlc75fs4",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/x48k3x5uge-mlc75fsc",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0106/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xgjvaoq2uq-mlc75fs4",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 107" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xgjvaoq2uq-mlc75fs4/annotation-page/vf80sfdjvon-mlc75fs4",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/t73whw996if-mlc75frw",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xgjvaoq2uq-mlc75fs4",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0107/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/egvofdncxi-mlc75frw",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 108" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/egvofdncxi-mlc75frw/annotation-page/jekre0j55z-mlc75frw",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/taovtnf9c6k-mlc75fro",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/egvofdncxi-mlc75frw",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0108/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/42ptn98fzge-mlc75fro",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 109" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/42ptn98fzge-mlc75fro/annotation-page/oo2ja3xvetr-mlc75fro",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/v1xr9tw1kbg-mlc75frf",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/42ptn98fzge-mlc75fro",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0109/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ni5fsr6srsm-mlc75frf",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 110" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ni5fsr6srsm-mlc75frf/annotation-page/ssyfauzi6h-mlc75frf",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/malb58umsv8-mlc75fr3",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ni5fsr6srsm-mlc75frf",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0110/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/p0waioujuo-mlc75fr3",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 111" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/p0waioujuo-mlc75fr3/annotation-page/op9lruw34za-mlc75fr3",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/d2a1v2xs3tm-mlc75fqt",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/p0waioujuo-mlc75fr3",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0111/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/nxtxhn0dahi-mlc75fqt",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 112" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/nxtxhn0dahi-mlc75fqt/annotation-page/fh5cw5ul42o-mlc75fqt",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/kvnhaiz40sl-mlc75fqm",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/nxtxhn0dahi-mlc75fqt",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0112/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ygvvggzrbue-mlc75fqm",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 113" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ygvvggzrbue-mlc75fqm/annotation-page/kaextleivfr-mlc75fqm",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/gjhf57b3vs-mlc75fqd",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ygvvggzrbue-mlc75fqm",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0113/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/cwwdw8bn3p-mlc75fqc",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 114" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/cwwdw8bn3p-mlc75fqc/annotation-page/cop0yeepw-mlc75fqc",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/0mun1p05eyqg-mlc75fq5",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/cwwdw8bn3p-mlc75fqc",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0114/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/693le0okf8e-mlc75fq5",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 115" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/693le0okf8e-mlc75fq5/annotation-page/yszhdrs12kl-mlc75fq5",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/4xaalyz1skh-mlc75fpw",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/693le0okf8e-mlc75fq5",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0115/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/mbcy9e7wm-mlc75fpw",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 116" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/mbcy9e7wm-mlc75fpw/annotation-page/fa876zi4f-mlc75fpw",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/nh3thc0r31c-mlc75fpp",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/mbcy9e7wm-mlc75fpw",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0116/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/d7dxjkmwad-mlc75fpp",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 117" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/d7dxjkmwad-mlc75fpp/annotation-page/v96i331w9i9-mlc75fpp",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/d2qkmiqnic5-mlc75fpf",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/d7dxjkmwad-mlc75fpp",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0117/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9ff4r1q3t8f-mlc75fpf",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 118" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9ff4r1q3t8f-mlc75fpf/annotation-page/gboe7ppn06-mlc75fpf",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/w6dy8iz368h-mlc75fp8",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9ff4r1q3t8f-mlc75fpf",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0118/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/uhk0gvdubm-mlc75fp8",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 119" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/uhk0gvdubm-mlc75fp8/annotation-page/t81cn281mxj-mlc75fp8",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/sdcym6rbaa-mlc75foz",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/uhk0gvdubm-mlc75fp8",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0119/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/gsaxv2k3ta-mlc75foz",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 120" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/gsaxv2k3ta-mlc75foz/annotation-page/6czvgbj1za7-mlc75foz",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/o2bcana2qf-mlc75fot",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/gsaxv2k3ta-mlc75foz",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0120/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/8wz169dcu0u-mlc75fos",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 121" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/8wz169dcu0u-mlc75fos/annotation-page/w7lo53140d-mlc75fos",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/raxjaw8uepk-mlc75fol",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/8wz169dcu0u-mlc75fos",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0121/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/4lho3lp2fdv-mlc75fok",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 122" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/4lho3lp2fdv-mlc75fok/annotation-page/i3c2i4uy5b-mlc75fok",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/8in0xdl821r-mlc75fod",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/4lho3lp2fdv-mlc75fok",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0122/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ento23yo5s-mlc75fod",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 123" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ento23yo5s-mlc75fod/annotation-page/3je1a50eim7-mlc75fod",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/p4c7ge7oynb-mlc75fo9",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ento23yo5s-mlc75fod",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0123/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/hft4ci09jfk-mlc75fo9",
+    "type" : "Canvas",
+    "height" : 1609,
+    "width" : 1100,
+    "label" : {
+      "en" : [ "The Little Tea Book - 124" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/hft4ci09jfk-mlc75fo9/annotation-page/wmv5vekyj4b-mlc75fo9",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/annotation/vzfvqjwff8i-mlc75fnq",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/hft4ci09jfk-mlc75fo9",
+        "body" : {
+          "id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0124/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1609,
+          "width" : 1100
+        }
+      } ]
+    } ]
+  } ],
+  "structures" : [ {
+    "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz",
+    "type" : "Range",
+    "label" : {
+      "en" : [ "Table of Contents" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/hasupfpa6vq-mlc93odx",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "INTRODUCING THE LITTLE TEA BOOK" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/6jgq8q09syv-mlc75ge7",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/kunxjmhssg-mlc75gdy",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/8zvv3uyep87-mlc75gdr",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/di6ifof8vl4-mlc75gdh",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/145gp6vxf53-mlc99f5g",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "THE ORIGIN OF TEA" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/a4enqilqhue-mlc75gda",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/v2yae7y1zr-mlc75gd0",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/t1im9w87am-mlc75gct",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/seektnoozy-mlc9em61",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "TEA  (Poem by Francis Saltus Saltus)" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/d9p7esmlqsi-mlc75gcj",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/e65m1io5rm-mlc9ewzf",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "LITTLE CUPS OF CHINESE AND JAPANESE TEA" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/iztx6evt4u8-mlc75gcc",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/1e4i6cd04ug-mlc75gc3",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ydktr6vn6k-mlc75gbw",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9hmdr44trvg-mlc75gbm",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/4haokt2fzxw-mlc75gbf",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/fmpsxumumpb-mlc75gb6",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/lfc3obmw8l-mlc9f5ao",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "ON TEA (Poem by Edmund Waller)" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/mfbfgrbxl0a-mlc75gaz",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/3netquh4551-mlc9fary",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "SOME ENGLISH TEA HISTORY" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/29i4my0pjir-mlc75gaq",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/dcqw327jt15-mlc75gai",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/zj2s9agt3ko-mlc75gaa",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/1vo9omgg3ew-mlc75ga2",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/km80d1fq2m-mlc75g9s",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/2ohqy2jrrzc-mlc75g9l",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9bhootgeate-mlc75g9d",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/j763ifyu48-mlc75g96",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9rlnu3e0jr-mlc75g8y",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/4i5yiqkq62s-mlc75g8r",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/tnaty3p3n8-mlc75g8j",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/eggwys0i6st-mlc75g8b",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/qsobd7qg72-mlc75g83",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ch15zobxc35-mlc75g7u",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/f88mgn2o9ec-mlc75g7m",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/zi7cqudmasj-mlc75g7e",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/xbuktiscu8a-mlc9frmg",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "O TEA! (Poem by Arthur Gray)" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/pb6dbyr7lmm-mlc75g77",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/ffqc26r0yg6-mlc9ft5g",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "TEA TERMS" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/zf413b0vedi-mlc75g6z",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/uejg8870qtb-mlc75g6r",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/8os75gtkwri-mlc9g1ij",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "TEA LEAVES" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/7fv7i2aurzk-mlc75g69",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/uorw412c6mc-mlc75g5z",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/1wq7lagd14w-mlc75g5p",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xkrvlq3wche-mlc75g5f",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xgt19dqstib-mlc75g55",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/wam1bna3n6t-mlc75g4y",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/cjhf6qlfmzu-mlc75g4p",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/thsf51iy17n-mlc75g4i",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/bia744zl3qc-mlc75g48",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/qvfurnvsxq-mlc75g41",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9j4j3vbq87n-mlc75g3s",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/5nhd12iwsln-mlc75g3k",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/6ft3nwr2dmy-mlc9gr61",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "WIT, WISDOM, AND HUMOR OF TEA" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xdri2hssk6s-mlc75g3b",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/t7z7d22yf-mlc75g34",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/6zb8sv9da48-mlc9gt69",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "FATE (Poem snippet by Churchill)" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/bnipm1snwjp-mlc75g2v",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/aatxaw37j4w-mlc9guh7",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "TEA MAKING AND TAKING IN JAPAN AND CHINA" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/jn8r7zc97de-mlc75g2n",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/u0sp9qwch08-mlc75g2e",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/1xbm17mu7bc-mlc75g26",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/bcvrsvxkojv-mlc75g1x",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/dfsxuvjm66t-mlc75g1q",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/2atgz69wt08-mlc75g1g",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/keijifox4f-mlc75g19",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/4d3abi5odp-mlc75g0z",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/8u9wdzlj24m-mlc75g0s",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/p4ydrl90gs-mlc75g0k",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/4qmccdgxzz7-mlc75g0c",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/m2rv8vmybiq-mlc75g02",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/tn7e07fans-mlc75fzv",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/neox15diocm-mlc75fzm",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/r2en2gba33-mlc75fze",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/btdwqmh9swa-mlc75fz5",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/ugo7dyq6tj-mlc9hcmc",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "TEA-DRINKING IN OTHER LANDS" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/t2o0xygj22q-mlc75fyx",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ipewmphxtfb-mlc75fyo",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/jkoo515d38f-mlc75fyh",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/dsc4v54kku-mlc75fy8",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/81ok69uze1e-mlc75fy1",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xu5cim5w99g-mlc75fxt",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/933mjmsayrl-mlc75fxl",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ncavydsvgm7-mlc75fxa",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/wdttos6dkw-mlc75fwr",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/9fcb5qm11ic-mlc9ho72",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "THE TEA-TABLE (Poem condensed from Hartley Coleridge)" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/fntzub5jh-mlc75fwh",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/5025abccda5-mlc75fw7",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/nm0s59z1f6q-mlc9hqob",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "LADIES, LITERATURE, AND TEA" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/t0twfhojdg-mlc75fvw",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/bb0qm62gukd-mlc75fvl",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/etlm9hpcshs-mlc75fvc",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/k1z8nrg2o1q-mlc75fv4",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/q7n24vc290g-mlc75fuw",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9t85ff50cf-mlc75fuo",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/05fgk5v2yn8r-mlc75fuf",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/vpvr9fh3bb-mlc9inl8",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "[Untitled Section on J. Robert's Pamphlet]" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/wgohsb8trph-mlc75fu7",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/7671fqsmtil-mlc75ftz",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/55jsbtb3l9s-mlc75ftq",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/quxo3rn42y-mlc75fti",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/6cxoqms4dos-mlc75fta",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/bm2lrgoqxyt-mlc75ft2",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/p0giv7ebhm-mlc75fst",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/nxr3hgacdqe-mlc9jeew",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "DR. JOHNSON'S AFFINITY" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/y72okzcpb19-mlc75fsl",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/q1sfvl6qwtq-mlc9jqdy",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "EARLIEST MENTION OF TEA" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/x48k3x5uge-mlc75fsc",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/limiedxm3kd-mlc9ju5m",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "AUSTRALIAN TEA" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xgjvaoq2uq-mlc75fs4",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/egvofdncxi-mlc75frw",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/vfrwcio5aus-mlc9jzb2",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "FIVE-O'CLOCK TEA" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/42ptn98fzge-mlc75fro",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/6d0740kd1ve-mlc9k342",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "TEA IN LADIES' NOVELS" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ni5fsr6srsm-mlc75frf",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/p0waioujuo-mlc75fr3",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/frmtjwhc38-mlc9k5vr",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "SYDNEY SMITH" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/nxtxhn0dahi-mlc75fqt",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ygvvggzrbue-mlc75fqm",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/s286lkpdm3-mlc9k7ga",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "DR. JOHNSON AGAIN" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/cwwdw8bn3p-mlc75fqc",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/693le0okf8e-mlc75fq5",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/range/4ibyipwx77a-mlc93odz/range/864pz1apm96-mlc9kb3t",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "A CUP OF TEA (Poem by Helen Gray Cone)" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/mbcy9e7wm-mlc75fpw",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/d7dxjkmwad-mlc75fpp",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/fyqwjrg6pxv-mlc75gfy",
+      "type" : "Canvas"
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/lgqy5lyimt-mlc75gfu",
+      "type" : "Canvas"
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/0nu3ctiskr4f-mlc75gfr",
+      "type" : "Canvas"
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/e6tvyudeqi-mlc75gfo",
+      "type" : "Canvas"
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/lb0me04zw2-mlc75gfl",
+      "type" : "Canvas"
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/0a939xd9k2tg-mlc75gfh",
+      "type" : "Canvas"
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/f2wye6kkc4h-mlc75gfc",
+      "type" : "Canvas"
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/epbnafkbiae-mlc75gf6",
+      "type" : "Canvas"
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/p939hnhme2m-mlc75gf9",
+      "type" : "Canvas"
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/2ic8uimw3ec-mlc75gf3",
+      "type" : "Canvas"
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/pdvuqwy39wc-mlc75gey",
+      "type" : "Canvas"
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/1gq995cj9xuj-mlc75gev",
+      "type" : "Canvas"
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ezctxlf4o8-mlc75geo",
+      "type" : "Canvas"
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/xmbgh7oz9m-mlc75gef",
+      "type" : "Canvas"
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/9ff4r1q3t8f-mlc75fpf",
+      "type" : "Canvas"
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/uhk0gvdubm-mlc75fp8",
+      "type" : "Canvas"
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/gsaxv2k3ta-mlc75foz",
+      "type" : "Canvas"
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/8wz169dcu0u-mlc75fos",
+      "type" : "Canvas"
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/4lho3lp2fdv-mlc75fok",
+      "type" : "Canvas"
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/ento23yo5s-mlc75fod",
+      "type" : "Canvas"
+    }, {
+      "id" : "https://example.org/zzqnm3uegc-mlc75a5e/canvas/hft4ci09jfk-mlc75fo9",
+      "type" : "Canvas"
+    } ]
+  } ]
+}

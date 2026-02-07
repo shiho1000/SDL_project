@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 35,
+    "height" : 51
+  }, {
+    "width" : 70,
+    "height" : 101
+  }, {
+    "width" : 140,
+    "height" : 201
+  }, {
+    "width" : 279,
+    "height" : 402
+  }, {
+    "width" : 557,
+    "height" : 803
+  }, {
+    "width" : 1113,
+    "height" : 1605
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1113,
+  "@id" : "https://shiho1000.github.io/SDL_project/images/littleteabook00grayrich_page-0002",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1605
+}

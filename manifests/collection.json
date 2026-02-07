@@ -23,5 +23,11 @@
       "none" : [ "The Book of Tea by Okakura, Kakuzo, 1862-1913" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://shiho1000.github.io/SDL_project/manifests/the_little_tea_book_manifest.json",
+    "label" : {
+      "en" : [ "The Little Tea Book" ]
+    },
+    "type" : "Manifest"
   } ]
 }

@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 104,
+    "height" : 76
+  }, {
+    "width" : 207,
+    "height" : 151
+  }, {
+    "width" : 413,
+    "height" : 302
+  }, {
+    "width" : 825,
+    "height" : 604
+  }, {
+    "width" : 1649,
+    "height" : 1208
+  }, {
+    "width" : 3298,
+    "height" : 2415
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3298,
+  "@id" : "https://shiho1000.github.io/SDL_project/images/Indianteaplantation",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2415
+}
